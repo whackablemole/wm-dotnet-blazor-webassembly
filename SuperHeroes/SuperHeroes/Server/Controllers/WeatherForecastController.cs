@@ -1,5 +1,4 @@
 using Microsoft.AspNetCore.Mvc;
-using FullStackCRUD.Shared;
 
 namespace FullStackCRUD.Server.Controllers
 {
