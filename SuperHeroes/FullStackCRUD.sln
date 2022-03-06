@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackCRUD.Server", "SuperHeroes\Server\FullStackCRUD.Server.csproj", "{C0FA5358-A739-4AD4-89C3-AEF72D4C6676}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStackCRUD.Server", "SuperHeroes\Server\FullStackCRUD.Server.csproj", "{C0FA5358-A739-4AD4-89C3-AEF72D4C6676}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackCRUD.Client", "SuperHeroes\Client\FullStackCRUD.Client.csproj", "{CD12B3EC-7532-41FE-A248-0AEE38A98082}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStackCRUD.Client", "SuperHeroes\Client\FullStackCRUD.Client.csproj", "{CD12B3EC-7532-41FE-A248-0AEE38A98082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullStackCRUD.Shared", "SuperHeroes\Shared\FullStackCRUD.Shared.csproj", "{7BECCC3A-8F9F-4799-A731-641F0F6E3BCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FullStackCRUD.Shared", "SuperHeroes\Shared\FullStackCRUD.Shared.csproj", "{7BECCC3A-8F9F-4799-A731-641F0F6E3BCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
