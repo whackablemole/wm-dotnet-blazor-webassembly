@@ -1,5 +1,5 @@
 ﻿@page "/counter"
-@attribute [Authorize(Roles = "Iron Man")]
+@*@attribute [Authorize(Roles = "Iron Man")]*@
 
 <PageTitle>Counter</PageTitle>
 
@@ -11,7 +11,7 @@
 
 <AuthorizeView Roles="Iron Man">
     <Authorized>
-        <span>You're authorized as @context.User.Identity.Name :D</span>
+        <p>You're authorized as @context.User.Identity.Name :D</p>
     </Authorized>
     <NotAuthorized>
         Sorry, you aren't authorized to view this stuff buddy!
